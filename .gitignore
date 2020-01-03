@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Duo-Web-Two-Factor-Authentication/.vs/Duo-Web-Two-Factor-Authentication/v16/Server/sqlite3/db.lock
